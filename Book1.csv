@@ -1,0 +1,11 @@
+﻿age,gender ,bmi,bp,cholesterol,condition
+58,male,24.4,135,210,at risk
+71,male,29.3,145,230,unhealthy
+48,male,25.6,120,180,heathly
+34,female,24.9,110,170,heathly
+62,female,19.7,140,220,at risk
+45,female,31.2,130,195,heathly
+29,male,27.8,115,175,heathly
+53,female,22.5,128,200,at risk
+39,male,27,118,185,heathly
+67,female,28.5,138,215,at risk
